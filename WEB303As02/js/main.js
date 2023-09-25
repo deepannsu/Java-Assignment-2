@@ -9,9 +9,9 @@
 </head>
 <body>
     <ul>
-        <li><a href="#" id="prospect">Prospect</a></li>
-        <li><a href="#" id="convert">Convert</a></li>
-        <li><a href="#" id="retain">Retain</a></li>
+        <li><a href="prospect.html" id="prospect">Prospect</a></li>
+        <li><a href="convert.html" id="convert">Convert</a></li>
+        <li><a href="retain.html" id="retain">Retain</a></li>
     </ul>
     <div id="content"></div>
 
